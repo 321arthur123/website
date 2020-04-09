@@ -1,0 +1,40 @@
+body {
+  color: rgb(255,255,255);
+font-family:arial;
+margin: 0px;
+text-align: center;
+}
+body {
+  background-color: white;
+}
+h1, h2 {
+  text-align: center;
+}
+h1 {
+  font-size: 5em;
+}
+h2 {
+  font-size: 2.5em;
+}
+li {
+  margin: 20px;
+  transition: 0.6s ease;
+}
+li:hover {
+  font-size: 2em;
+  transition: 0.6s ease;
+  color: orange;
+}
+p {
+  font-size: 1.4em;
+}
+a {
+  color:white;
+}
+h3 {
+  font-size: 2em
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
